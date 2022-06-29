@@ -627,7 +627,7 @@
           "type": "color"
         },
         "text-link-active": {
-          "value": "{color.blue.9}",
+          "value": "{color.blue.10}",
           "type": "color"
         },
         "text-primary-darkBG": {
