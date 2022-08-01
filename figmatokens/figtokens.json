@@ -1130,7 +1130,7 @@
             "fontFamily": "{fontFamily.primary}",
             "fontWeight": "Bold",
             "lineHeight": "{lineHeight.xl}",
-            "fontSize": "{fontSize.m.03}",
+            "fontSize": "{fontSize.m.04}",
             "letterSpacing": "{letterSpacing.default}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textDecoration": "none",
