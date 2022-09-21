@@ -347,7 +347,7 @@
           "type": "color"
         },
         "8": {
-          "value": "#EAD780",
+          "value": "#f5de75",
           "type": "color"
         },
         "9": {
@@ -497,7 +497,7 @@
           "type": "color"
         },
         "8": {
-          "value": "#EA9780",
+          "value": "#f7ac97",
           "type": "color"
         },
         "9": {
@@ -547,7 +547,7 @@
           "type": "color"
         },
         "8": {
-          "value": "#66BAFF",
+          "value": "#77c1fd",
           "type": "color"
         },
         "9": {
@@ -1527,19 +1527,19 @@
       },
       "save": {
         "save-faint": {
-          "value": "{color.mc-orange.3}",
+          "value": "{color.mc-orange.2}",
           "type": "color"
         },
         "save-weak": {
-          "value": "{color.mc-orange.6}",
+          "value": "{color.mc-orange.4}",
           "type": "color"
         },
         "save-medium": {
-          "value": "{color.mc-orange.9}",
+          "value": "{color.mc-orange.8}",
           "type": "color"
         },
         "save-strong": {
-          "value": "{color.mc-orange.10}",
+          "value": "{color.mc-orange.9}",
           "type": "color"
         },
         "save-heavy": {
@@ -1553,79 +1553,79 @@
       },
       "spend": {
         "spend-faint": {
-          "value": "fff",
+          "value": "{color.yellow.2}",
           "type": "color"
         },
         "spend-weak": {
-          "value": "fff",
+          "value": "{color.yellow.4}",
           "type": "color"
         },
         "spend-medium": {
-          "value": "fff",
+          "value": "{color.yellow.8}",
           "type": "color"
         },
         "spend-strong": {
-          "value": "fff",
+          "value": "{color.yellow.9}",
           "type": "color"
         },
         "spend-heavy": {
-          "value": "fff",
+          "value": "{color.yellow.11}",
           "type": "color"
         },
         "spend-dense": {
-          "value": "fff",
+          "value": "{color.yellow.12}",
           "type": "color"
         }
       },
       "pay": {
         "pay-faint": {
-          "value": "fff",
+          "value": "{color.mc-blue.2}",
           "type": "color"
         },
         "pay-weak": {
-          "value": "fff",
+          "value": "{color.mc-blue.4}",
           "type": "color"
         },
         "pay-medium": {
-          "value": "fff",
+          "value": "{color.mc-blue.8}",
           "type": "color"
         },
         "pay-strong": {
-          "value": "fff",
+          "value": "{color.mc-blue.9}",
           "type": "color"
         },
         "pay-heavy": {
-          "value": "fff",
+          "value": "{color.mc-blue.11}",
           "type": "color"
         },
         "pay-dense": {
-          "value": "fff",
+          "value": "{color.mc-blue.12}",
           "type": "color"
         }
       },
       "pay-accent": {
         "pay-accent-faint": {
-          "value": "fff",
+          "value": "{color.purple.3}",
           "type": "color"
         },
         "pay-accent-weak": {
-          "value": "fff",
+          "value": "{color.purple.5}",
           "type": "color"
         },
         "pay-accent-medium": {
-          "value": "fff",
+          "value": "{color.purple.8}",
           "type": "color"
         },
         "pay-accent-strong": {
-          "value": "fff",
+          "value": "{color.purple.9}",
           "type": "color"
         },
         "pay-accent-heavy": {
-          "value": "fff",
+          "value": "{color.purple.11}",
           "type": "color"
         },
         "pay-accent-dense": {
-          "value": "fff",
+          "value": "{color.purple.12}",
           "type": "color"
         }
       }
