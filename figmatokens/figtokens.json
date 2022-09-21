@@ -1436,265 +1436,6 @@
   "web": {},
   "nativemobile": {},
   "moneycanvas": {
-    "color": {
-      "moneycanvas": {
-        "pay": {
-          "Pay 50": {
-            "value": "{color.system.mc-blue.50}",
-            "type": "color"
-          },
-          "Pay 100": {
-            "value": "{color.system.mc-blue.100}",
-            "type": "color"
-          },
-          "Pay 200": {
-            "value": "{color.system.mc-blue.200}",
-            "type": "color"
-          },
-          "Pay 300": {
-            "value": "{color.system.mc-blue.300}",
-            "type": "color"
-          },
-          "Pay 400": {
-            "value": "{color.system.mc-blue.400}",
-            "type": "color"
-          },
-          "Pay 500": {
-            "value": "{color.system.mc-blue.500}",
-            "type": "color"
-          },
-          "Pay 600": {
-            "value": "{color.system.mc-blue.600}",
-            "type": "color"
-          },
-          "Pay 650": {
-            "value": "{color.system.mc-blue.700}",
-            "type": "color"
-          },
-          "Pay 700": {
-            "value": "{color.system.mc-blue.700}",
-            "type": "color"
-          },
-          "Pay 800": {
-            "value": "{color.system.mc-blue.800}",
-            "type": "color"
-          },
-          "Pay 900": {
-            "value": "{color.system.mc-blue.900}",
-            "type": "color"
-          }
-        },
-        "pay-accent": {
-          "Pay Accent 50": {
-            "value": "{color.system.purple.50}",
-            "type": "color"
-          },
-          "Pay Accent 100": {
-            "value": "{color.system.purple.100}",
-            "type": "color"
-          },
-          "Pay Accent 200": {
-            "value": "{color.system.purple.200}",
-            "type": "color"
-          },
-          "Pay Accent 300": {
-            "value": "{color.system.purple.300}",
-            "type": "color"
-          },
-          "Pay Accent 400": {
-            "value": "{color.system.purple.400}",
-            "type": "color"
-          },
-          "Pay Accent 500": {
-            "value": "{color.system.purple.500}",
-            "type": "color"
-          },
-          "Pay Accent 600": {
-            "value": "{color.system.purple.600}",
-            "type": "color"
-          },
-          "Pay Accent 650": {
-            "value": "{color.system.purple.650}",
-            "type": "color"
-          },
-          "Pay Accent 700": {
-            "value": "{color.system.purple.700}",
-            "type": "color"
-          },
-          "Pay Accent 800": {
-            "value": "{color.system.purple.800}",
-            "type": "color"
-          },
-          "Pay Accent 900": {
-            "value": "{color.system.purple.900}",
-            "type": "color"
-          }
-        },
-        "spend": {
-          "Spend 50": {
-            "value": "{color.system.yellow.50}",
-            "type": "color"
-          },
-          "Spend 100": {
-            "value": "{color.system.yellow.100}",
-            "type": "color"
-          },
-          "Spend 200": {
-            "value": "{color.system.yellow.200}",
-            "type": "color"
-          },
-          "Spend 300": {
-            "value": "{color.system.yellow.300}",
-            "type": "color"
-          },
-          "Spend 400": {
-            "value": "{color.system.yellow.400}",
-            "type": "color"
-          },
-          "Spend 500": {
-            "value": "{color.system.yellow.500}",
-            "type": "color"
-          },
-          "Spend 600": {
-            "value": "{color.system.yellow.600}",
-            "type": "color"
-          },
-          "Spend 650": {
-            "value": "{color.system.yellow.650}",
-            "type": "color"
-          },
-          "Spend 700": {
-            "value": "{color.system.yellow.700}",
-            "type": "color"
-          },
-          "Spend 800": {
-            "value": "{color.system.yellow.800}",
-            "type": "color"
-          },
-          "Spend 900": {
-            "value": "{color.system.yellow.900}",
-            "type": "color"
-          }
-        },
-        "save": {
-          "Save 50": {
-            "value": "{color.system.mc-orange.50}",
-            "type": "color"
-          },
-          "Save 100": {
-            "value": "{color.system.mc-orange.100}",
-            "type": "color"
-          },
-          "Save 200": {
-            "value": "{color.system.mc-orange.200}",
-            "type": "color"
-          },
-          "Save 300": {
-            "value": "{color.system.mc-orange.300}",
-            "type": "color"
-          },
-          "Save 400": {
-            "value": "{color.system.mc-orange.400}",
-            "type": "color"
-          },
-          "Save 500": {
-            "value": "{color.system.mc-orange.500}",
-            "type": "color"
-          },
-          "Save 600": {
-            "value": "{color.system.mc-orange.600}",
-            "type": "color"
-          },
-          "Save 650": {
-            "value": "{color.system.mc-orange.650}",
-            "type": "color"
-          },
-          "Save 700": {
-            "value": "{color.system.mc-orange.700}",
-            "type": "color"
-          },
-          "Save 800": {
-            "value": "{color.system.mc-orange.800}",
-            "type": "color"
-          },
-          "Save 900": {
-            "value": "{color.system.mc-orange.900}",
-            "type": "color"
-          }
-        },
-        "gradiant": {
-          "10%": {
-            "value": "linear-gradient(90deg, #B97C7B 0%, rgba(176,127,132,1) 15%, {color.moneycanvas.pay.Pay 500} 100%)",
-            "type": "color"
-          },
-          "50%": {
-            "value": "linear-gradient(90deg, {color.moneycanvas.save.Save 500} 15%, rgba(176,127,132,1) 51%, {color.moneycanvas.pay.Pay 500} 100%)",
-            "type": "color"
-          },
-          "90%": {
-            "value": "linear-gradient(90deg, {color.moneycanvas.save.Save 500} 15%, rgba(176,127,132,1) 75%, #8391B4 100%)",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "textStyle": {
-      "moneycanvas": {
-        "Display Large": {
-          "value": {
-            "fontFamily": "{fontFamily.primary}",
-            "fontWeight": "{fontWeight.regular}",
-            "lineHeight": "{lineHeight.s}",
-            "fontSize": "{fontSize.xxl.04}",
-            "letterSpacing": "{letterSpacing.default}",
-            "paragraphSpacing": "{paragraphSpacing.default}",
-            "textDecoration": "{textDecoration.default}",
-            "textCase": "{textCase.default}"
-          },
-          "type": "typography",
-          "description": "Display Large"
-        },
-        "Display Small": {
-          "value": {
-            "fontFamily": "{fontFamily.primary}",
-            "fontWeight": "{fontWeight.regular}",
-            "lineHeight": "{lineHeight.m}",
-            "fontSize": "{fontSize.xl.03}",
-            "letterSpacing": "{letterSpacing.default}",
-            "paragraphSpacing": "{paragraphSpacing.default}",
-            "textDecoration": "{textDecoration.default}",
-            "textCase": "{textCase.default}"
-          },
-          "type": "typography"
-        },
-        "Subheadline": {
-          "value": {
-            "fontFamily": "{fontFamily.primary}",
-            "fontWeight": "{fontWeight.regular}",
-            "lineHeight": "{lineHeight.l}",
-            "fontSize": "{fontSize.xl.02}",
-            "letterSpacing": "{letterSpacing.default}",
-            "paragraphSpacing": "{paragraphSpacing.default}",
-            "textDecoration": "{textDecoration.default}",
-            "textCase": "{textCase.default}"
-          },
-          "type": "typography"
-        },
-        "Title": {
-          "value": {
-            "fontFamily": "{fontFamily.primary}",
-            "fontWeight": "{fontWeight.regular}",
-            "lineHeight": "{lineHeight.default}",
-            "fontSize": "{fontSize.l.04}",
-            "letterSpacing": "{letterSpacing.default}",
-            "paragraphSpacing": "{paragraphSpacing.default}",
-            "textDecoration": "{textDecoration.default}",
-            "textCase": "{textCase.default}"
-          },
-          "type": "typography"
-        }
-      }
-    },
     "moneycanvas": {
       "innershadow": {
         "Inner Small": {
@@ -1783,8 +1524,122 @@
           "type": "boxShadow",
           "description": "Shadow 5"
         }
+      },
+      "save": {
+        "save-faint": {
+          "value": "{color.mc-orange.3}",
+          "type": "color"
+        },
+        "save-weak": {
+          "value": "{color.mc-orange.6}",
+          "type": "color"
+        },
+        "save-medium": {
+          "value": "{color.mc-orange.9}",
+          "type": "color"
+        },
+        "save-strong": {
+          "value": "{color.mc-orange.10}",
+          "type": "color"
+        },
+        "save-heavy": {
+          "value": "{color.mc-orange.11}",
+          "type": "color"
+        },
+        "save-dense": {
+          "value": "{color.mc-orange.12}",
+          "type": "color"
+        }
+      },
+      "spend": {
+        "spend-faint": {
+          "value": "fff",
+          "type": "color"
+        },
+        "spend-weak": {
+          "value": "fff",
+          "type": "color"
+        },
+        "spend-medium": {
+          "value": "fff",
+          "type": "color"
+        },
+        "spend-strong": {
+          "value": "fff",
+          "type": "color"
+        },
+        "spend-heavy": {
+          "value": "fff",
+          "type": "color"
+        },
+        "spend-dense": {
+          "value": "fff",
+          "type": "color"
+        }
+      },
+      "pay": {
+        "pay-faint": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-weak": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-medium": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-strong": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-heavy": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-dense": {
+          "value": "fff",
+          "type": "color"
+        }
+      },
+      "pay-accent": {
+        "pay-accent-faint": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-accent-weak": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-accent-medium": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-accent-strong": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-accent-heavy": {
+          "value": "fff",
+          "type": "color"
+        },
+        "pay-accent-dense": {
+          "value": "fff",
+          "type": "color"
+        }
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "system",
+      "foundations",
+      "typography",
+      "web",
+      "nativemobile",
+      "moneycanvas"
+    ]
+  }
 }
