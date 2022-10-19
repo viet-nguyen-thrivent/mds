@@ -1631,7 +1631,7 @@
       }
     },
     "textStyle": {
-      "desktop": {
+      "moneycanvas": {
         "numeric-large": {
           "value": {
             "fontFamily": "{fontFamily.primary}",
@@ -1650,7 +1650,7 @@
             "fontFamily": "{fontFamily.primary}",
             "fontWeight": "{fontWeight.bold}",
             "lineHeight": "{lineHeight.default}",
-            "fontSize": "{fontSize.xl.04}",
+            "fontSize": "{fontSize.xl.02}",
             "letterSpacing": "{letterSpacing.default}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textDecoration": "{textDecoration.default}",
