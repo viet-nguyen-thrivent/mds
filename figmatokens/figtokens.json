@@ -1629,6 +1629,36 @@
           "type": "color"
         }
       }
+    },
+    "textStyle": {
+      "desktop": {
+        "numeric-large": {
+          "value": {
+            "fontFamily": "{fontFamily.primary}",
+            "fontWeight": "{fontWeight.bold}",
+            "lineHeight": "{lineHeight.default}",
+            "fontSize": "{fontSize.xxl.01}",
+            "letterSpacing": "{letterSpacing.default}",
+            "paragraphSpacing": "{paragraphSpacing.default}",
+            "textDecoration": "{textDecoration.default}",
+            "textCase": "{textCase.default}"
+          },
+          "type": "typography"
+        },
+        "numeric-medium": {
+          "value": {
+            "fontFamily": "{fontFamily.primary}",
+            "fontWeight": "{fontWeight.bold}",
+            "lineHeight": "{lineHeight.default}",
+            "fontSize": "{fontSize.xl.04}",
+            "letterSpacing": "{letterSpacing.default}",
+            "paragraphSpacing": "{paragraphSpacing.default}",
+            "textDecoration": "{textDecoration.default}",
+            "textCase": "{textCase.default}"
+          },
+          "type": "typography"
+        }
+      }
     }
   },
   "$themes": [],
